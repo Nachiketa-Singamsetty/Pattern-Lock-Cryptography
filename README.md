@@ -36,7 +36,7 @@ Pattern Lock Cryptography is a C++ implementation of text encoding and decoding 
 
 ## Prerequisites
 
-- C++ Compiler (e.g., GCC, Clang)
+- C++ Compiler (e.g., CLion, GCC, Clang)
 - Basic knowledge of C++ and console applications.
 
 ## Usage
